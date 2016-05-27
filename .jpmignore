@@ -11,3 +11,6 @@
 
 # Ignore ones self
 *.jpmignore
+
+# Ignore markdown files.
+*.md
