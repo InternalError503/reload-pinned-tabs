@@ -1,0 +1,19 @@
+{
+  "title": "Reload Pinned Tabs",
+  "name": "reload-pinned-tabs",
+  "version": "1.0.0",
+  "description": "Allows you to reload all pinned tabs at the push of a button.",
+  "main": "index.js",
+  "author": "8pecxstudios",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "icon": {
+    "32": "resource://@reload-pinned-tabs/data/images/button-icon-32.png",
+    "64": "resource://@reload-pinned-tabs/data/images/button-icon-64.png"
+  },
+  "license": "MPL-2.0",
+  "keywords": [
+    "jetpack"
+  ]
+}
