@@ -14,3 +14,6 @@
 
 # Ignore markdown files.
 *.md
+
+# Ignore .git
+/.git/**
