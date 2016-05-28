@@ -18,10 +18,12 @@ This addon was created in visual studios code.
 ####  To build (Platform):
 
 - `Windows:` __CTRL + SHIFT + B__
+- `Linux:` __CTRL + SHIFT + B__
 
 #### Task Runner (Visual Studio Code):
 
 - `Windows:` __CTRL + SHIFT + P__
+- `Linux:` __CTRL + SHIFT + P__
 
 | Task | Command | Result |
 |----------|:-------------:|------:|
