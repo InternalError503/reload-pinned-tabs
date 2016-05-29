@@ -20,7 +20,7 @@ goto end
 
 :: Important to sign requires API kyes from AMO.
 :sign
-jpm sign --api-key ${%2} --api-secret ${%3}
+jpm sign --api-key %2 --api-secret %3
 goto end
 
 :unknowncommand
