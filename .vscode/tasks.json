@@ -30,6 +30,7 @@
         {
             "taskName": "sign",
             //Important if sharing the code or commiting to public repo remove API keys.
+            //Usage example: "args": ["user:XXXXXXX:XXX", "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"],
             "args": ["API key", "API Secret Key"],
             "isBuildCommand": true,
             "showOutput": "always"
