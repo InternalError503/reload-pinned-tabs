@@ -2,9 +2,10 @@
 *.zip
 *.xpi
 
-# Ignore any bat or cmd files.
+# Ignore any bat, cmd and sh files.
 *.bat
 *.cmd
+*.sh
 
 # Ignore visual studios code files.
 /.vscode/**
