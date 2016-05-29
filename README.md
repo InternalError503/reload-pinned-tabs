@@ -8,6 +8,8 @@ Source code released under [MPL 2.0] (https://www.mozilla.org/MPL/2.0/)
 #### What it does: 
 
 Adds a customizable button to the browsers toolbar that when activated will trigger all pinned browser tabs to reload.
+`Access key:` __CTRL|CMD + SHIFT + E__
+
 
 ### About this Add-on:
 
