@@ -1,6 +1,7 @@
 {
   "title": "Reload Pinned Tabs",
   "name": "reload-pinned-tabs",
+  "id": "reload-pinned-tabs@8pecxstudios.com",
   "version": "1.0.2",
   "description": "Allows you to reload all pinned tabs at the push of a button.",
   "main": "index.js",
