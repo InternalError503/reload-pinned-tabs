@@ -1,6 +1,8 @@
 Reload Pinned Tabs
 ==============
 
+Download this addon from [addons.mozilla.org] (https://addons.mozilla.org/en-US/firefox/addon/reload-all-pinned-tabs/)
+
 Source Code Repository For Reload Pinned Tabs
 
 Source code released under [MPL 2.0] (https://www.mozilla.org/MPL/2.0/)
