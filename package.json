@@ -9,6 +9,9 @@
   "engines": {
     "firefox": ">=38.0a1"
   },
+  "permissions": {
+    "multiprocess": true
+  },
   "license": "MPL-2.0",
   "keywords": [
     "jetpack"
